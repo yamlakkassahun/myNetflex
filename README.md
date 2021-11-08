@@ -1,5 +1,5 @@
 # MyNetflex
-
+<p>This is a Netflix clone that use the free movie API and firebase for authenticating the user. this project is devloped using angular and it is developed by Yamlak Kassahun</p><br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
 
 ## Development server
